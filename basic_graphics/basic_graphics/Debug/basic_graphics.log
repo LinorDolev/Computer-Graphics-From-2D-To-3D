@@ -1,0 +1,4 @@
+﻿  graphics.cpp
+c:\users\linor\desktop\פרוייקטים\computer graphics from 2d to 3d - linor dolev\basic_graphics\basic_graphics\graphics.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  basic_graphics.vcxproj -> C:\Users\Linor\Desktop\פרוייקטים\Computer Graphics From 2D To 3D - Linor Dolev\basic_graphics\Debug\basic_graphics.exe
+  basic_graphics.vcxproj -> C:\Users\Linor\Desktop\פרוייקטים\Computer Graphics From 2D To 3D - Linor Dolev\basic_graphics\Debug\basic_graphics.pdb (Full PDB)
